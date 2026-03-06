@@ -1,0 +1,2 @@
+run:
+	python main.py ../../Stages_of_data_mining.pdf -p 1,2

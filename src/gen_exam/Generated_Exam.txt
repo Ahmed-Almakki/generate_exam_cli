@@ -1,0 +1,37 @@
+=== EXAM QUESTIONS ===
+
+Question 1: What is the purpose of data mining?  
+A) To analyze large amounts of data.  
+B) To find hidden patterns and relationships.  
+C) To transform raw data into usable formats.  
+D) To improve organizational efficiency.  
+
+
+Question 2: How does data mining differ from data analysis?  
+A) Data mining uses more advanced algorithms than data analysis.  
+B) Data mining focuses on understanding business contexts rather than just analyzing data.  
+C) Data mining is primarily concerned with processing unstructured data.  
+D) Data analysis always requires specific domain expertise.  
+
+
+Question 3: What is one of the key components of a data mining architecture?  
+A) Data Sources  
+B) Data Preprocessing  
+C) Data Mining Algorithms  
+D) Data Warehouses  
+
+
+Question 4: In what stage do we prepare data before starting data mining?  
+A) Defining the problem  
+B) Collecting and gathering data  
+C) Cleaning the data  
+D) Transforming the data into a usable format
+
+========================================
+
+=== ANSWER KEY ===
+
+Question 1 Correct Answer: B
+Question 2 Correct Answer: B
+Question 3 Correct Answer: A
+Question 4 Correct Answer: C
